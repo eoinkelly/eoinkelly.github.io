@@ -18,9 +18,9 @@ And they won. The tenets of web standards are now the accepted way to build webs
 
 ### Progressive enhancement revisited
 
-The central idea that the HTML document should make sense without anything else just doesn't make sense to folks making web applications. The "job to be done" of a content based site is to get that content from the screen into the brains of readers. This is a job that HTML is capable of doing on it's own (season with CSS and JS to taste).
+The central idea that the HTML document should make sense without anything else just doesn't make sense to folks making web applications. The "job to be done" of a content based site is to get that content from the screen into the brains of readers. This is a job that HTML is capable of doing by itself (season with CSS and JS to taste).
 
-Consider a "Photoshop" alike web application as indicitive of the complex, ambitious things we are trying to build on the web now. The jobs to be done here might be:
+Consider a "Photoshop" alike web application as indicative of the complex, ambitious things we are trying to build on the web now. The jobs to be done here might be:
 
 * _cut this image up into 3 pieces_
 * _adjust the blue in this image to match our logo_
